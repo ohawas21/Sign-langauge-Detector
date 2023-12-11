@@ -1,8 +1,4 @@
 # AI-models-
-SnakeReinforcementLearningGame
-
-
-# AI-models-
 **SnakeReinforcementLearningGame
 **
 
